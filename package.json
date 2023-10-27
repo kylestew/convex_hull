@@ -16,6 +16,8 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "@thi.ng/geom": "^5.2.13",
+        "@thi.ng/hiccup-canvas": "^2.4.3",
         "dat.gui": "^0.7.9"
     },
     "devDependencies": {

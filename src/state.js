@@ -1,4 +1,4 @@
-import { loadImage } from "./lib/loaders";
+import { loadImage } from "./lib/loaders.js";
 
 const StateDidChangeEvent = "stateDidChange";
 
