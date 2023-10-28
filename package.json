@@ -16,9 +16,13 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "@thi.ng/color": "^5.5.27",
         "@thi.ng/geom": "^5.2.13",
         "@thi.ng/hiccup-canvas": "^2.4.3",
-        "dat.gui": "^0.7.9"
+        "@thi.ng/math": "^5.7.0",
+        "@thi.ng/random": "^3.6.10",
+        "dat.gui": "^0.7.9",
+        "rambda": "^8.5.0"
     },
     "devDependencies": {
         "vite": "^2.7.2"
